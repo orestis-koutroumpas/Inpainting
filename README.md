@@ -74,10 +74,10 @@ Each curve represents the learning process for a different image, showing how th
 
 We test different values of **N** to determine when reconstruction fails:  
 
-        | **N**   | **Reconstruction Quality** |
-        |---------|----------------------------|
-        | **500** |   Perfect reconstruction   |
-        | **400** |     High reconstruction    |
-        | **350** |      Some degradation      |
-        | **300** |   Noticeable degradation   |
-        | **250** |     Poor reconstruction    |
+| **N**   | **Reconstruction Quality** |
+|---------|----------------------------|
+| **500** |   Perfect reconstruction   |
+| **400** |     High reconstruction    |
+| **350** |      Some degradation      |
+| **300** |   Noticeable degradation   |
+| **250** |     Poor reconstruction    |
