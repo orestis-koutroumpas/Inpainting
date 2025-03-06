@@ -62,7 +62,7 @@ To analyze the performance of gradient descent, we plot the cost function per it
   <img src="results/costs.png" width="90%" height="90%" alt="Cost vs Iteration"> 
 </p>  
 
-Each curve represents a different image. 
+Each curve represents a different image learing process. 
 
 
 ### Example Output (N=400)
