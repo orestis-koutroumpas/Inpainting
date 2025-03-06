@@ -75,12 +75,10 @@ Each curve represents a different image.
 
 We test different values of **N** to determine when reconstruction fails:  
 
-<p align="center"> 
-| **N**  | **Reconstruction Quality** |
-|--------|---------------------------|
-| **500** | Perfect reconstruction |
-| **400** | High reconstruction |
-| **350** | Some degradation |
-| **300** | Noticeable degradation |
-| **250** | Poor reconstruction |
-</p>
+        | **N**   | **Reconstruction Quality** |
+        |---------|----------------------------|
+        | **500** |   Perfect reconstruction   |
+        | **400** |     High reconstruction    |
+        | **350** |      Some degradation      |
+        | **300** |   Noticeable degradation   |
+        | **250** |     Poor reconstruction    |
