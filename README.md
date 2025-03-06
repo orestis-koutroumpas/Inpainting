@@ -36,17 +36,6 @@ We solve this problem using **Gradient Descent (GD)** to estimate the optimal in
 5. Reconstruct the missing parts using the optimized **Z**.
 6. Evaluate performance for different values of **N** (500, 400, 350, 300).
 
-## Installation and Setup
-
-### 1.Clone the repository:
-```git clone https://github.com/orestis-koutroumpas/Inpainting.git```
-
-### 2. Install dependencies:
-```pip install numpy scipy matplotlib```
-
-### 3. Run the script:
-```python inpainting.py```
-
 ## Output
 The script reconstructs the missing pixels and displays the results.
 
@@ -81,3 +70,14 @@ We test different values of **N** to determine when reconstruction fails:
 | **350** |      Some degradation      |
 | **300** |   Noticeable degradation   |
 | **250** |     Poor reconstruction    |
+
+## Installation and Setup
+
+### 1.Clone the repository:
+```git clone https://github.com/orestis-koutroumpas/Inpainting.git```
+
+### 2. Install dependencies:
+```pip install numpy scipy matplotlib```
+
+### 3. Run the script:
+```python inpainting.py```
