@@ -12,7 +12,6 @@ The objective is to estimate the best input **Z** to the generative model to rec
 ## Dataset  
 The file `data2.mat` contains:  
 - `Xi` (784 × 4): Ideal images of the digit 8 (used only for comparison).  
-- `Xn` (784 × 4): Noisy and incomplete images (our given data).  
 
 ### **Data Representation**  
 Each image is a **784 × 1** vector, representing a **28 × 28** grayscale image. Only the first **N** elements of each column in `Xn` are useful, while the remaining pixels (**N+1 to 784**) are considered missing. The transformation follows:  
