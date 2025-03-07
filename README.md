@@ -72,7 +72,7 @@ We test different values of **N** to determine when reconstruction fails:
 
 ## Installation and Setup
 
-### 1.Clone the repository:
+### 1. Clone the repository:
 ```git clone https://github.com/orestis-koutroumpas/Inpainting.git```
 
 ### 2. Install dependencies:
