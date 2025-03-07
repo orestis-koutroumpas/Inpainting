@@ -38,10 +38,6 @@ We solve this problem using **Gradient Descent (GD)** to estimate the optimal in
 ## Output
 The script reconstructs the missing pixels and displays the results.
 
-- Left: Ground truth image (for comparison).
-- Middle: Given noisy and incomplete image.
-- Right: Reconstructed image using the generative model.
-
 ### Plot of Cost Function vs. Iteration 
 
 To analyze the performance of gradient descent, we plot the cost function per iteration:  
@@ -53,6 +49,10 @@ To analyze the performance of gradient descent, we plot the cost function per it
 Each curve represents the learning process for a different image, showing how the reconstruction accuracy evolves over time.
 
 ### Example Output (N=400)
+
+- Left: Ground truth image (for comparison).
+- Middle: Given noisy and incomplete image.
+- Right: Reconstructed image using the generative model.
 
 <p align="center"> 
 <img src="results/400.png" width="90%" height="90%" alt="Inpainintg"> 
