@@ -51,7 +51,7 @@ Each curve represents the learning process for a different image, showing how th
 ### Example Output (N=400)
 
 - Left: Ground truth image **Xi** (for comparison).
-- Middle: Noisy and incomplete image ***Xn**.
+- Middle: Noisy and incomplete image **Xn**.
 - Right: Reconstructed image using the generative model.
 
 <p align="center"> 
